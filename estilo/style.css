@@ -10,16 +10,17 @@
     min-height: 100vh;
 }
 p{
-    color: rgb(132, 187, 235);
+    color: rgb(211, 231, 248);
     text-align: left;
     padding-bottom: 60px;
     margin: 3px;
     padding-left: 20px;
-    text-shadow: 1px 1px rgb(255, 255, 255);
+    margin-left: 20px;
+    text-shadow: 1px 1px rgb(67, 54, 54);
 }
 
 .heart{
-    margin: 120px;
+    margin: 140px;
     height: 70px;
     width: 70px;
     position: relative;
